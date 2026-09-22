@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "title": "Chief Value Officer: The Important Evolution of the CFO",
+    "authors": "ACCA",
+    "year": 2023,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 1",
+    "modules": [
+      1
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": true,
+    "apaCitation": "ACCA (2023). Chief Value Officer: The Important Evolution of the CFO. https://www.accaglobal.com/content/dam/ACCA_Global/professional-insights/ChiefValueOfficer/PI-CHIEF-VALUE-OFFICER%20v6.pdf",
+    "identifiers": {},
+    "url": "https://www.accaglobal.com/content/dam/ACCA_Global/professional-insights/ChiefValueOfficer/PI-CHIEF-VALUE-OFFICER%20v6.pdf",
+    "projectChapters": [
+      1,
+      3,
+      8
+    ],
+    "courseModules": [
+      "m1"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Kluczowa koncepcja CVO dla Rozdziału 1 i 8 projektu dyplomowego.",
+    "businessValue": "Wykorzystywana w module 1 oraz w dysertacji (Rozdziały 1, 3, 8)."
+  },
+  {
+    "id": 2,
+    "title": "The CEO’s Guide to Generative AI",
+    "authors": "IBM",
+    "year": 2024,
+    "apaCategory": 4,
+    "syllabusStream": "Moduł 1",
+    "modules": [
+      1
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": true,
+    "apaCitation": "IBM (2024). The CEO’s Guide to Generative AI. https://www.ibm.com/downloads/documents/us-en/107a02e9bec8fbd9",
+    "identifiers": {},
+    "url": "https://www.ibm.com/downloads/documents/us-en/107a02e9bec8fbd9",
+    "projectChapters": [
+      1,
+      3,
+      8
+    ],
+    "courseModules": [
+      "m1"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Wytyczne wdrażania GenAI z perspektywy kadry zarządzającej.",
+    "businessValue": "Wykorzystywana w module 1 oraz w dysertacji (Rozdziały 1, 3, 8)."
+  },
+  {
+    "id": 3,
+    "title": "Handbook of Artificial Intelligence and Big Data Applications in Investments",
+    "authors": "CFA Institute Research Foundation",
+    "year": 2023,
+    "apaCategory": 4,
+    "syllabusStream": "Moduł 1",
+    "modules": [
+      1,
+      2
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": true,
+    "apaCitation": "CFA Institute Research Foundation (2023). Handbook of Artificial Intelligence and Big Data Applications in Investments. https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/ai-and-big-data-in-investments.pdf",
+    "identifiers": {
+      "isbn": "nie dotyczy (raport)"
+    },
+    "url": "https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/ai-and-big-data-in-investments.pdf",
+    "projectChapters": [
+      1,
+      3,
+      8
+    ],
+    "courseModules": [
+      "m1"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Standard analiz ilościowych i uczenia maszynowego w inwestycjach.",
+    "businessValue": "Wykorzystywana w module 1 oraz w dysertacji (Rozdziały 1, 3, 8)."
+  },
+  {
+    "id": 4,
+    "title": "Transformational Journeys: Finance and the Agile Organisation",
+    "authors": "ACCA",
+    "year": 2021,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 1",
+    "modules": [
+      1
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": true,
+    "apaCitation": "ACCA (2021). Transformational Journeys: Finance and the Agile Organisation. https://www.accaglobal.com/content/dam/ACCA_Global/professional-insights/TransformationalJourneys/PI-TRANSFORMATIONAL-JOURNEYS-v5.pdf",
+    "identifiers": {},
+    "url": "https://www.accaglobal.com/content/dam/ACCA_Global/professional-insights/TransformationalJourneys/PI-TRANSFORMATIONAL-JOURNEYS-v5.pdf",
+    "projectChapters": [
+      1,
+      3,
+      8
+    ],
+    "courseModules": [
+      "m1"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Podstawowa publikacja z zakresu transformacji zwinnej organizacji finansowej.",
+    "businessValue": "Wykorzystywana w module 1 oraz w dysertacji (Rozdziały 1, 3, 8)."
+  },
+  {
+    "id": 5,
+    "title": "Artificial Intelligence Index Report 2024",
+    "authors": "Stanford Institute for Human-Centered AI (HAI)",
+    "year": 2024,
+    "apaCategory": 4,
+    "syllabusStream": "Moduł 1",
+    "modules": [
+      1,
+      5
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": true,
+    "apaCitation": "Stanford Institute for Human-Centered AI (HAI) (2024). Artificial Intelligence Index Report 2024. https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_2024_AI-Index-Report.pdf",
+    "identifiers": {},
+    "url": "https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_2024_AI-Index-Report.pdf",
+    "projectChapters": [
+      1,
+      3,
+      8
+    ],
+    "courseModules": [
+      "m1"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Najbardziej wszechstronny roczny raport dojrzałości AI na świecie.",
+    "businessValue": "Wykorzystywana w module 1 oraz w dysertacji (Rozdziały 1, 3, 8)."
+  },
+  {
+    "id": 6,
+    "title": "AI in Action: Beyond Experimentation to Transform Industry",
+    "authors": "World Economic Forum (WEF)",
+    "year": 2025,
+    "apaCategory": 2,
+    "syllabusStream": "Moduł 1",
+    "modules": [
+      1
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "World Economic Forum (WEF) (2025). AI in Action: Beyond Experimentation to Transform Industry. https://reports.weforum.org/docs/WEF_AI_in_Action_Beyond_Experimentation_to_Transform_Industry_2025.pdf",
+    "identifiers": {},
+    "url": "https://reports.weforum.org/docs/WEF_AI_in_Action_Beyond_Experimentation_to_Transform_Industry_2025.pdf",
+    "projectChapters": [
+      1,
+      3,
+      8
+    ],
+    "courseModules": [
+      "m1"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Skalowanie wdrożeń AI z fazy PoC do produkcji przemysłowej.",
+    "businessValue": "Pogłębia zagadnienia modułu 1 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 7,
+    "title": "AI: Artificial Intelligence in the Finance Profession",
+    "authors": "ACCA",
+    "year": 2023,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 1",
+    "modules": [
+      1
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "ACCA (2023). AI: Artificial Intelligence in the Finance Profession. https://www.accaglobal.com/content/dam/ACCA_Global/professional-insights/PI-AI-ACCA-POSITION%20v2.pdf",
+    "identifiers": {},
+    "url": "https://www.accaglobal.com/content/dam/ACCA_Global/professional-insights/PI-AI-ACCA-POSITION%20v2.pdf",
+    "projectChapters": [
+      1,
+      3,
+      8
+    ],
+    "courseModules": [
+      "m1"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Stanowisko ACCA w sprawie kompetencji, etyki i szans AI w finansach.",
+    "businessValue": "Pogłębia zagadnienia modułu 1 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 8,
+    "title": "State of Generative AI in the Enterprise",
+    "authors": "Deloitte",
+    "year": 2025,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 1",
+    "modules": [
+      1,
+      7
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Deloitte (2025). State of Generative AI in the Enterprise. https://www2.deloitte.com/content/dam/Deloitte/us/Documents/consulting/us-state-of-gen-ai-q4.pdf",
+    "identifiers": {},
+    "url": "https://www2.deloitte.com/content/dam/Deloitte/us/Documents/consulting/us-state-of-gen-ai-q4.pdf",
+    "projectChapters": [
+      1,
+      3,
+      8
+    ],
+    "courseModules": [
+      "m1"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Globalne badanie barier i zwrotu z inwestycji (ROI) w GenAI.",
+    "businessValue": "Pogłębia zagadnienia modułu 1 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 9,
+    "title": "Global Trends in AI Governance: Evolving Country Approaches",
+    "authors": "World Bank Group",
+    "year": 2025,
+    "apaCategory": 4,
+    "syllabusStream": "Moduł 1",
+    "modules": [
+      1
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "World Bank Group (2025). Global Trends in AI Governance: Evolving Country Approaches. https://documents1.worldbank.org/curated/en/099120224205026271/pdf/P1786161ad76ca0ae1ba3b1558ca4ff88ba.pdf",
+    "identifiers": {},
+    "url": "https://documents1.worldbank.org/curated/en/099120224205026271/pdf/P1786161ad76ca0ae1ba3b1558ca4ff88ba.pdf",
+    "projectChapters": [
+      1,
+      3,
+      8
+    ],
+    "courseModules": [
+      "m1"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Porównanie podejść jurysdykcyjnych do zarządzania i nadzoru nad sztuczną inteligencją.",
+    "businessValue": "Pogłębia zagadnienia modułu 1 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 10,
+    "title": "Zarządzanie ryzykiem",
+    "authors": "Jajuga, K. (red.)",
+    "year": 2018,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 3",
+    "modules": [
+      3
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": true,
+    "apaCitation": "Jajuga, K. (red.) (2018). Zarządzanie ryzykiem. Wydawnictwo Naukowe PWN. https://ksiegarnia.pwn.pl/Zarzadzanie-ryzykiem,756551008,p.html",
+    "identifiers": {
+      "isbn": "978-83-01-20054-1"
+    },
+    "url": "https://ksiegarnia.pwn.pl/Zarzadzanie-ryzykiem,756551008,p.html",
+    "projectChapters": [
+      2,
+      5,
+      8
+    ],
+    "courseModules": [
+      "m3"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Fundament polskiej literatury akademickiej w zakresie teorii i metod zarządzania ryzykiem finansowym.",
+    "businessValue": "Wykorzystywana w module 3 oraz w dysertacji (Rozdziały 2, 5, 8)."
+  },
+  {
+    "id": 11,
+    "title": "Gen AI Agentic Framework for Financial Risk Management",
+    "authors": "Joshi, S.",
+    "year": 2025,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 3",
+    "modules": [
+      3
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": true,
+    "apaCitation": "Joshi, S. (2025). Gen AI Agentic Framework for Financial Risk Management. https://www.researchgate.net/publication/388717177_Gen_AI_for_Market_Risk_and_Credit_Risk_Learn_Agentically_powered_Gen_AI_Gen_AI_Agentic_Framework_for_Financial_Risk_Management",
+    "identifiers": {},
+    "url": "https://www.researchgate.net/publication/388717177_Gen_AI_for_Market_Risk_and_Credit_Risk_Learn_Agentically_powered_Gen_AI_Gen_AI_Agentic_Framework_for_Financial_Risk_Management",
+    "projectChapters": [
+      2,
+      5,
+      8
+    ],
+    "courseModules": [
+      "m3"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Agentowe architektury AI w zarządzaniu ryzykiem rynkowym i kredytowym.",
+    "businessValue": "Wykorzystywana w module 3 oraz w dysertacji (Rozdziały 2, 5, 8)."
+  },
+  {
+    "id": 12,
+    "title": "Artificial Intelligence and Financial Security",
+    "authors": "Ranjan, P., Pandey, B.K., Avacharmal, R.",
+    "year": 2024,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 3",
+    "modules": [
+      3
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Ranjan, P., Pandey, B.K., Avacharmal, R. (2024). Artificial Intelligence and Financial Security. BPB Publications. https://bpbonline.com",
+    "identifiers": {
+      "isbn": "do weryfikacji według formatu wydania"
+    },
+    "url": "https://bpbonline.com",
+    "projectChapters": [
+      2,
+      5,
+      8
+    ],
+    "courseModules": [
+      "m3"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Bezpieczeństwo systemów finansowych, cyber-odporność i AI.",
+    "businessValue": "Pogłębia zagadnienia modułu 3 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 13,
+    "title": "Data Analytics and AI for Quantitative Risk Assessment and Financial Computation",
+    "authors": "Galety, M.G., Claver, J.H., Sriharsha, A.V., Vajjhala, N.R., Natarajan, A.K.",
+    "year": 2024,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 3",
+    "modules": [
+      3
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Galety, M.G., Claver, J.H., Sriharsha, A.V., Vajjhala, N.R., Natarajan, A.K. (2024). Data Analytics and AI for Quantitative Risk Assessment and Financial Computation. IGI Global. https://www.igi-global.com",
+    "identifiers": {
+      "isbn": "do weryfikacji (wersja drukowana / elektroniczna)"
+    },
+    "url": "https://www.igi-global.com",
+    "projectChapters": [
+      2,
+      5,
+      8
+    ],
+    "courseModules": [
+      "m3"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Ilościowa ocena ryzyka, modelowanie stochastyczne i algorytmy obliczeniowe.",
+    "businessValue": "Pogłębia zagadnienia modułu 3 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 14,
+    "title": "The Financial Stability Implications of Artificial Intelligence",
+    "authors": "Financial Stability Board (FSB)",
+    "year": 2024,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 3",
+    "modules": [
+      3
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Financial Stability Board (FSB) (2024). The Financial Stability Implications of Artificial Intelligence. https://www.fsb.org/uploads/P14112024.pdf",
+    "identifiers": {},
+    "url": "https://www.fsb.org/uploads/P14112024.pdf",
+    "projectChapters": [
+      2,
+      5,
+      8
+    ],
+    "courseModules": [
+      "m3"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Implikacje AI dla stabilności globalnego systemu finansowego i ryzyka zarażania.",
+    "businessValue": "Pogłębia zagadnienia modułu 3 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 15,
+    "title": "Artificial Intelligence in Financial Services",
+    "authors": "World Economic Forum (WEF), Accenture",
+    "year": 2025,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 3",
+    "modules": [
+      3,
+      10
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "World Economic Forum (WEF), Accenture (2025). Artificial Intelligence in Financial Services. https://reports.weforum.org/docs/WEF_Artificial_Intelligence_in_Financial_Services_2025.pdf",
+    "identifiers": {},
+    "url": "https://reports.weforum.org/docs/WEF_Artificial_Intelligence_in_Financial_Services_2025.pdf",
+    "projectChapters": [
+      2,
+      5,
+      8
+    ],
+    "courseModules": [
+      "m3"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Zastosowanie AI i frameworki nadzoru w sektorze bankowym i ubezpieczeniowym.",
+    "businessValue": "Pogłębia zagadnienia modułu 3 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 16,
+    "title": "Sztuczna inteligencja. Praktyczny przewodnik dla sektora innowacji finansowych",
+    "authors": "Nowakowski, M.",
+    "year": 2023,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 4",
+    "modules": [
+      4
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Nowakowski, M. (2023). Sztuczna inteligencja. Praktyczny przewodnik dla sektora innowacji finansowych. https://www.ibuk.pl/fiszka/299675/sztuczna-inteligencja-praktyczny-przewodnik-dla-sektora-innowacji-finansowych.html?srsltid=AfmBOorBLgjaueEddglJDJFIi4aYAUas--yt_8j0CJnPbKxvCG-rw6BY",
+    "identifiers": {
+      "isbn": "do weryfikacji w rekordzie bibliotecznym"
+    },
+    "url": "https://www.ibuk.pl/fiszka/299675/sztuczna-inteligencja-praktyczny-przewodnik-dla-sektora-innowacji-finansowych.html?srsltid=AfmBOorBLgjaueEddglJDJFIi4aYAUas--yt_8j0CJnPbKxvCG-rw6BY",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m4"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Praktyczny przewodnik po prawnych aspektach innowacji finansowych i FinTech.",
+    "businessValue": "Wykorzystywana w module 4 oraz w dysertacji (Rozdziały 2, 7)."
+  },
+  {
+    "id": 17,
+    "title": "Responsible AI in the Enterprise: Practical AI Risk Management for Explainable, Auditable, and Safe Models with Hyperscalers and Azure OpenAI",
+    "authors": "Masood, A., Dawe, H., Price, E. i in.",
+    "year": 2023,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 4",
+    "modules": [
+      4
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Masood, A., Dawe, H., Price, E. i in. (2023). Responsible AI in the Enterprise: Practical AI Risk Management for Explainable, Auditable, and Safe Models with Hyperscalers and Azure OpenAI. Helion / Packt. https://helion.pl/ksiazki/responsible-ai-in-the-enterprise-practical-ai-risk-management-for-explainable-auditable-and-safe-adnan-masood-heather-dawe-ed-price-dr-ehsan-ad,e_3mp6.htm",
+    "identifiers": {
+      "isbn": "do weryfikacji według formatu"
+    },
+    "url": "https://helion.pl/ksiazki/responsible-ai-in-the-enterprise-practical-ai-risk-management-for-explainable-auditable-and-safe-adnan-masood-heather-dawe-ed-price-dr-ehsan-ad,e_3mp6.htm",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m4"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Wyjaśnialność modeli (XAI), audytowalność i frameworki bezpiecznego wdrażania chmurowego.",
+    "businessValue": "Wykorzystywana w module 4 oraz w dysertacji (Rozdziały 2, 7)."
+  },
+  {
+    "id": 18,
+    "title": "Rozporządzenie (UE) 2024/1689 z 13 czerwca 2024 r. w sprawie sztucznej inteligencji (EU AI Act)",
+    "authors": "Parlament Europejski i Rada UE",
+    "year": 2024,
+    "apaCategory": 2,
+    "syllabusStream": "Moduł 4",
+    "modules": [
+      4
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Parlament Europejski i Rada UE (2024). Rozporządzenie (UE) 2024/1689 z 13 czerwca 2024 r. w sprawie sztucznej inteligencji (EU AI Act). https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=OJ:L_202401689",
+    "identifiers": {},
+    "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=OJ:L_202401689",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m4"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Unijny akt prawny o kluczowym znaczeniu (Rozdział 2 dysertacji).",
+    "businessValue": "Wykorzystywana w module 4 oraz w dysertacji (Rozdziały 2, 7)."
+  },
+  {
+    "id": 19,
+    "title": "Wytyczne w zakresie etyki dotyczącej godnej zaufania sztucznej inteligencji",
+    "authors": "Niezależna Grupa Ekspertów Wysokiego Szczebla ds. AI (KE)",
+    "year": 2019,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 4",
+    "modules": [
+      4
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Niezależna Grupa Ekspertów Wysokiego Szczebla ds. AI (KE) (2019). Wytyczne w zakresie etyki dotyczącej godnej zaufania sztucznej inteligencji. Komisja Europejska. https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/JURI/DV/2019/11-06/Ethics-guidelines-AI_PL.pdf",
+    "identifiers": {},
+    "url": "https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/JURI/DV/2019/11-06/Ethics-guidelines-AI_PL.pdf",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m4"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "7 kluczowych wymagań etycznych dla godnej zaufania AI (Trustworthy AI).",
+    "businessValue": "Wykorzystywana w module 4 oraz w dysertacji (Rozdziały 2, 7)."
+  },
+  {
+    "id": 20,
+    "title": "Europejska deklaracja praw i zasad cyfrowych w cyfrowej dekadzie",
+    "authors": "Komisja Europejska",
+    "year": 2023,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 4",
+    "modules": [
+      4
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Komisja Europejska (2023). Europejska deklaracja praw i zasad cyfrowych w cyfrowej dekadzie. https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32023C0123%2801%29",
+    "identifiers": {},
+    "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32023C0123%2801%29",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m4"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Zasady poszanowania prywatności i praw obywateli w społeczeństwie cyfrowym.",
+    "businessValue": "Wykorzystywana w module 4 oraz w dysertacji (Rozdziały 2, 7)."
+  },
+  {
+    "id": 21,
+    "title": "Using Artificial Intelligence in the Workplace: What Are the Main Ethical Risks?",
+    "authors": "Salvi del Pero, A., Wyckoff, P., Vourc’h, A.",
+    "year": 2022,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 4",
+    "modules": [
+      4
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Salvi del Pero, A., Wyckoff, P., Vourc’h, A. (2022). Using Artificial Intelligence in the Workplace: What Are the Main Ethical Risks?. OECD. https://www.oecd-ilibrary.org",
+    "identifiers": {},
+    "url": "https://www.oecd-ilibrary.org",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m4"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Etyczne ryzyka automatyzacji miejsc pracy i relacji pracowniczych.",
+    "businessValue": "Pogłębia zagadnienia modułu 4 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 22,
+    "title": "Addressing Business Model Related Human Rights Risks: A B-Tech Foundational Paper",
+    "authors": "Office of the United Nations High Commissioner for Human Rights (OHCHR)",
+    "year": 2020,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 4",
+    "modules": [
+      4
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Office of the United Nations High Commissioner for Human Rights (OHCHR) (2020). Addressing Business Model Related Human Rights Risks: A B-Tech Foundational Paper. https://www.ohchr.org/en/business/b-tech-project",
+    "identifiers": {},
+    "url": "https://www.ohchr.org/en/business/b-tech-project",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m4"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Prawa człowieka a modele biznesowe spółek technologicznych.",
+    "businessValue": "Pogłębia zagadnienia modułu 4 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 23,
+    "title": "Large Language Models in Finance: Applications, Challenges and Opportunities",
+    "authors": "Bomba, R. i in.",
+    "year": 2023,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Bomba, R. i in. (2023). Large Language Models in Finance: Applications, Challenges and Opportunities. https://dl.acm.org/doi/fullHtml/10.1145/3604237.3626869",
+    "identifiers": {},
+    "url": "https://dl.acm.org/doi/fullHtml/10.1145/3604237.3626869",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Zastosowanie modeli LLM w analizie rynkowej, sprawozdawczości i finansach.",
+    "businessValue": "Wykorzystywana w module 5 oraz w dysertacji (Rozdziały 3, 5, 6)."
+  },
+  {
+    "id": 24,
+    "title": "The AI-First Company: How to Compete and Win with Artificial Intelligence",
+    "authors": "Ketterer, H., Himmelreich, H.",
+    "year": 2021,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Ketterer, H., Himmelreich, H. (2021). The AI-First Company: How to Compete and Win with Artificial Intelligence. Portfolio / Penguin Random House. https://www.penguinrandomhouse.com/books/669098/the-ai-first-company-by-ash-fontana/",
+    "identifiers": {
+      "isbn": "978-0-593-33031-9"
+    },
+    "url": "https://www.penguinrandomhouse.com/books/669098/the-ai-first-company-by-ash-fontana/",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Budowa kultury i strategii AI-First w przedsiębiorstwie.",
+    "businessValue": "Wykorzystywana w module 5 oraz w dysertacji (Rozdziały 3, 5, 6)."
+  },
+  {
+    "id": 25,
+    "title": "LangChain and LangFlow Documentation",
+    "authors": "LangChain / LangFlow",
+    "year": 2024,
+    "apaCategory": 3,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "LangChain / LangFlow (2024). LangChain and LangFlow Documentation. https://docs.langchain.com",
+    "identifiers": {},
+    "url": "https://docs.langchain.com",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Orkiestracja agentowa, RAG (Retrieval-Augmented Generation) i łączenie modeli z bazami wektorowymi.",
+    "businessValue": "Wykorzystywana w module 5 oraz w dysertacji (Rozdziały 3, 5, 6)."
+  },
+  {
+    "id": 26,
+    "title": "OpenAI Documentation & API Reference",
+    "authors": "OpenAI",
+    "year": 2024,
+    "apaCategory": 3,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "OpenAI (2024). OpenAI Documentation & API Reference. https://platform.openai.com/docs",
+    "identifiers": {},
+    "url": "https://platform.openai.com/docs",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Referencyjna dokumentacja modeli OpenAI, function calling, Structured Outputs i Embeddings.",
+    "businessValue": "Wykorzystywana w module 5 oraz w dysertacji (Rozdziały 3, 5, 6)."
+  },
+  {
+    "id": 27,
+    "title": "Anthropic Claude Documentation & Prompt Engineering Guide",
+    "authors": "Anthropic",
+    "year": 2024,
+    "apaCategory": 3,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Anthropic (2024). Anthropic Claude Documentation & Prompt Engineering Guide. https://docs.anthropic.com",
+    "identifiers": {},
+    "url": "https://docs.anthropic.com",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Zaawansowane techniki promptingu i modele Claude dla systemów korporacyjnych.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 28,
+    "title": "AI and Machine Learning Products Documentation (Vertex AI)",
+    "authors": "Google Cloud",
+    "year": 2024,
+    "apaCategory": 3,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Google Cloud (2024). AI and Machine Learning Products Documentation (Vertex AI). https://cloud.google.com/docs/ai-ml",
+    "identifiers": {},
+    "url": "https://cloud.google.com/docs/ai-ml",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Architektura chmurowa, modele Gemini i skalowanie enterprise AI.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 29,
+    "title": "Building LLM Powered Applications",
+    "authors": "Singh, S.",
+    "year": 2024,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Singh, S. (2024). Building LLM Powered Applications. O’Reilly Media. https://www.oreilly.com",
+    "identifiers": {
+      "isbn": "do weryfikacji"
+    },
+    "url": "https://www.oreilly.com",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Praktyczny podręcznik inżynierii aplikacji opartych na modelach językowych.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 30,
+    "title": "Practical Deep Learning for Financial Applications",
+    "authors": "Warden, P.",
+    "year": 2024,
+    "apaCategory": 2,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Warden, P. (2024). Practical Deep Learning for Financial Applications. Manning Publications. https://www.manning.com",
+    "identifiers": {
+      "isbn": "do weryfikacji"
+    },
+    "url": "https://www.manning.com",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Praktyczne zastosowanie uczenia głębokiego w aplikacjach finansowych.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 31,
+    "title": "TechnoVision: Top 5 Tech Trends to Watch in 2025",
+    "authors": "Capgemini",
+    "year": 2025,
+    "apaCategory": 4,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Capgemini (2025). TechnoVision: Top 5 Tech Trends to Watch in 2025. https://www.capgemini.com/wp-content/uploads/2025/01/Top-Tech-Trends-2025_Report.pdf",
+    "identifiers": {},
+    "url": "https://www.capgemini.com/wp-content/uploads/2025/01/Top-Tech-Trends-2025_Report.pdf",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Wiodące trendy technologiczne i architektoniczne na 2025 r.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 32,
+    "title": "5 trendów AI na 2025 rok",
+    "authors": "IBM",
+    "year": 2025,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "IBM (2025). 5 trendów AI na 2025 rok. https://crn.pl/aktualnosci/5-trendow-ai-na-2025-rok/",
+    "identifiers": {},
+    "url": "https://crn.pl/aktualnosci/5-trendow-ai-na-2025-rok/",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Prognozy IBM dotyczące rozwoju generatywnej AI i agentów autonomicznych.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 33,
+    "title": "The Economic Potential of Generative AI: The Next Productivity Frontier",
+    "authors": "McKinsey & Company",
+    "year": 2023,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "McKinsey & Company (2023). The Economic Potential of Generative AI: The Next Productivity Frontier. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier",
+    "identifiers": {},
+    "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Kwantyfikacja wartości dodanej GenAI w przekroju funkcji korporacyjnych.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 34,
+    "title": "Top 10 Opportunities for Technology Companies in 2025",
+    "authors": "EY",
+    "year": 2025,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "EY (2025). Top 10 Opportunities for Technology Companies in 2025. https://www.ey.com/en_gl/insights/tech-sector/top-10-opportunities-for-technology-companies-in-2025",
+    "identifiers": {},
+    "url": "https://www.ey.com/en_gl/insights/tech-sector/top-10-opportunities-for-technology-companies-in-2025",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Szanse rynkowe i alokacja kapitału w spółkach technologicznych.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 35,
+    "title": "AI and Emerging Technologies in 2025",
+    "authors": "Gartner",
+    "year": 2025,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Gartner (2025). AI and Emerging Technologies in 2025. https://www.gartner.com",
+    "identifiers": {},
+    "url": "https://www.gartner.com",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Analiza wschodzących technologii sztucznej inteligencji na 2025 rok.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 36,
+    "title": "2025 Global Technology Outlook",
+    "authors": "Deloitte",
+    "year": 2025,
+    "apaCategory": 4,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Deloitte (2025). 2025 Global Technology Outlook. https://www.deloitte.com",
+    "identifiers": {},
+    "url": "https://www.deloitte.com",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Globalne trendy i perspektywy technologiczne dla przedsiębiorstw.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 37,
+    "title": "AI in Business 2025",
+    "authors": "Accenture",
+    "year": 2025,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Accenture (2025). AI in Business 2025. https://www.accenture.com",
+    "identifiers": {},
+    "url": "https://www.accenture.com",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Zastosowanie sztucznej inteligencji w operacjach biznesowych.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 38,
+    "title": "Prognozy dotyczące sztucznej inteligencji w biznesie w 2025 r.",
+    "authors": "PwC Polska",
+    "year": 2025,
+    "apaCategory": 4,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "PwC Polska (2025). Prognozy dotyczące sztucznej inteligencji w biznesie w 2025 r.. https://www.pwc.pl/pl/artykuly/prognozy-dotyczace-sztucznej-inteligencji-w-biznesie-w-2025-roku.html",
+    "identifiers": {},
+    "url": "https://www.pwc.pl/pl/artykuly/prognozy-dotyczace-sztucznej-inteligencji-w-biznesie-w-2025-roku.html",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Polski kontekst biznesowy i perspektywy adopcji technologii AI.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 39,
+    "title": "The State of AI in 2025",
+    "authors": "MIT Technology Review",
+    "year": 2025,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 5",
+    "modules": [
+      5
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "MIT Technology Review (2025). The State of AI in 2025. https://www.technologyreview.com",
+    "identifiers": {},
+    "url": "https://www.technologyreview.com",
+    "projectChapters": [
+      3,
+      5,
+      6
+    ],
+    "courseModules": [
+      "m5"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Globalny stan i kierunki rozwoju systemów sztucznej inteligencji.",
+    "businessValue": "Pogłębia zagadnienia modułu 5 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 40,
+    "title": "Business Process Management",
+    "authors": "Dumas, M., La Rosa, M., Mendling, J., Reijers, H.",
+    "year": 2022,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Dumas, M., La Rosa, M., Mendling, J., Reijers, H. (2022). Business Process Management. PWN. https://ksiegarnia.pwn.pl",
+    "identifiers": {
+      "isbn": "do weryfikacji względem wydania"
+    },
+    "url": "https://ksiegarnia.pwn.pl",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Światowy podręcznik akademicki zarządzania procesami biznesowymi.",
+    "businessValue": "Wykorzystywana w module 6 oraz w dysertacji (Rozdziały 3, 4, 6)."
+  },
+  {
+    "id": 41,
+    "title": "Zarządzanie procesowe w gospodarce wiedzy: tworzenie wartości z kapitału intelektualnego",
+    "authors": "Szelągowski, M.",
+    "year": 2018,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Szelągowski, M. (2018). Zarządzanie procesowe w gospodarce wiedzy: tworzenie wartości z kapitału intelektualnego. Wydawnictwo Linia. https://www.wydawnictwolinia.pl",
+    "identifiers": {
+      "isbn": "do weryfikacji"
+    },
+    "url": "https://www.wydawnictwolinia.pl",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Koncepcja dynamicznego zarządzania procesami w organizacjach opartych na wiedzy.",
+    "businessValue": "Wykorzystywana w module 6 oraz w dysertacji (Rozdziały 3, 4, 6)."
+  },
+  {
+    "id": 42,
+    "title": "Modelowanie procesów biznesowych. BPMN 2.0 od podstaw",
+    "authors": "Misiak, Z.",
+    "year": 2023,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Misiak, Z. (2023). Modelowanie procesów biznesowych. BPMN 2.0 od podstaw. Onepress. https://onepress.pl",
+    "identifiers": {
+      "isbn": "do weryfikacji"
+    },
+    "url": "https://onepress.pl",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Praktyczny przewodnik po notacji BPMN 2.0 dla controllingu i analityków.",
+    "businessValue": "Wykorzystywana w module 6 oraz w dysertacji (Rozdziały 3, 4, 6)."
+  },
+  {
+    "id": 43,
+    "title": "Cyfrowa analiza danych i procesów",
+    "authors": "Brzychczy, E., Rostek, K.",
+    "year": 2024,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Brzychczy, E., Rostek, K. (2024). Cyfrowa analiza danych i procesów. PWE. https://www.pwe.com.pl",
+    "identifiers": {
+      "isbn": "do weryfikacji"
+    },
+    "url": "https://www.pwe.com.pl",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Nowoczesne metody cyfrowej analizy procesowej i Process Mining.",
+    "businessValue": "Wykorzystywana w module 6 oraz w dysertacji (Rozdziały 3, 4, 6)."
+  },
+  {
+    "id": 44,
+    "title": "A Measurement Instrument for the Ten Principles of Good BPM",
+    "authors": "Badakhshan, P., Scholta, H., Schmiedel, T., vom Brocke, J.",
+    "year": 2023,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Badakhshan, P., Scholta, H., Schmiedel, T., vom Brocke, J. (2023). A Measurement Instrument for the Ten Principles of Good BPM. Business Process Management Journal, 29(6), 1762–1790. https://doi.org/10.1108/BPMJ-08-2021-0549",
+    "identifiers": {
+      "doi": "10.1108/BPMJ-08-2021-0549"
+    },
+    "url": "https://doi.org/10.1108/BPMJ-08-2021-0549",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Narzędzie pomiarowe dla 10 zasad efektywnego zarządzania procesowego.",
+    "businessValue": "Pogłębia zagadnienia modułu 6 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 45,
+    "title": "Business Processes Nature Assessment Matrix",
+    "authors": "Berniak-Woźny, J., Szelągowski, M.",
+    "year": 2022,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Berniak-Woźny, J., Szelągowski, M. (2022). Business Processes Nature Assessment Matrix. Aslib Journal of Information Management, 74(2), 244–264. https://doi.org/10.1108/AJIM-04-2021-0110",
+    "identifiers": {
+      "doi": "10.1108/AJIM-04-2021-0110"
+    },
+    "url": "https://doi.org/10.1108/AJIM-04-2021-0110",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Matryca oceny natury procesów biznesowych i podatności na automatyzację.",
+    "businessValue": "Pogłębia zagadnienia modułu 6 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 46,
+    "title": "Predicts 2021: Accelerate Results Beyond RPA to Hyperautomation",
+    "authors": "Gartner",
+    "year": 2020,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Gartner (2020). Predicts 2021: Accelerate Results Beyond RPA to Hyperautomation. https://www.gartner.com",
+    "identifiers": {
+      "isbn": "G00736497"
+    },
+    "url": "https://www.gartner.com",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Przejście od prostego RPA do hiperautomatyzacji z udziałem modeli AI.",
+    "businessValue": "Pogłębia zagadnienia modułu 6 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 47,
+    "title": "Business Process Ambidexterity and Its Impact on Business-IT Alignment",
+    "authors": "Helbin, T., Van Looy, A.",
+    "year": 2019,
+    "apaCategory": 2,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Helbin, T., Van Looy, A. (2019). Business Process Ambidexterity and Its Impact on Business-IT Alignment. RCIS 2019. https://doi.org/10.1109/RCIS.2019.8877073",
+    "identifiers": {
+      "doi": "10.1109/RCIS.2019.8877073"
+    },
+    "url": "https://doi.org/10.1109/RCIS.2019.8877073",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Oburęczność procesowa i dopasowanie biznesowo-technologiczne.",
+    "businessValue": "Pogłębia zagadnienia modułu 6 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 48,
+    "title": "Building a Complementary Agenda for Business Process Management and Digital Innovation",
+    "authors": "Mendling, J., Pentland, B.T., Recker, J.",
+    "year": 2020,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Mendling, J., Pentland, B.T., Recker, J. (2020). Building a Complementary Agenda for Business Process Management and Digital Innovation. European Journal of Information Systems, 29(3), 208–219. https://doi.org/10.1080/0960085X.2020.1755207",
+    "identifiers": {
+      "doi": "10.1080/0960085X.2020.1755207"
+    },
+    "url": "https://doi.org/10.1080/0960085X.2020.1755207",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Integracja zarządzania procesami z innowacjami cyfrowymi.",
+    "businessValue": "Pogłębia zagadnienia modułu 6 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 49,
+    "title": "Exploring the Diversity of Business Process Nature in Organizations Industry 4.0/5.0",
+    "authors": "Szelągowski, M. i in.",
+    "year": 2024,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Szelągowski, M. i in. (2024). Exploring the Diversity of Business Process Nature in Organizations Industry 4.0/5.0. Future Business Journal, 10, 118. https://doi.org/10.1186/s43093-024-00395-5",
+    "identifiers": {
+      "doi": "10.1186/s43093-024-00395-5"
+    },
+    "url": "https://doi.org/10.1186/s43093-024-00395-5",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Zróżnicowanie procesów w erze Przemysłu 4.0 i 5.0.",
+    "businessValue": "Pogłębia zagadnienia modułu 6 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 50,
+    "title": "Understanding the Nature of Processes: An Information Processing Perspective",
+    "authors": "Zelt, S., Schmiedel, T., vom Brocke, J.",
+    "year": 2018,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Zelt, S., Schmiedel, T., vom Brocke, J. (2018). Understanding the Nature of Processes: An Information Processing Perspective. Business Process Management Journal, 24(1), 67–88. https://doi.org/10.1108/BPMJ-05-2016-0102",
+    "identifiers": {
+      "doi": "10.1108/BPMJ-05-2016-0102"
+    },
+    "url": "https://doi.org/10.1108/BPMJ-05-2016-0102",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Perspektywa przetwarzania informacji w badaniu natury procesów biznesowych.",
+    "businessValue": "Pogłębia zagadnienia modułu 6 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 51,
+    "title": "Cyfryzacja zarządzania danymi w organizacji",
+    "authors": "Gontar, B.",
+    "year": 2019,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Gontar, B. (2019). Cyfryzacja zarządzania danymi w organizacji. SIW Znak. https://www.znak.com.pl/p/cyfryzacja-zarzadzanie-danymi-w-organizacji-120334",
+    "identifiers": {
+      "isbn": "do weryfikacji"
+    },
+    "url": "https://www.znak.com.pl/p/cyfryzacja-zarzadzanie-danymi-w-organizacji-120334",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Architektura ładu danych (Data Governance) w polskich realiach.",
+    "businessValue": "Pogłębia zagadnienia modułu 6 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 52,
+    "title": "Zarządzanie zbiorami danych o dużej skali. Nowoczesna architektura z siatką danych i technologią Data Fabric",
+    "authors": "Plich, P.",
+    "year": 2024,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Plich, P. (2024). Zarządzanie zbiorami danych o dużej skali. Nowoczesna architektura z siatką danych i technologią Data Fabric. Helion. https://helion.pl",
+    "identifiers": {
+      "isbn": "do weryfikacji"
+    },
+    "url": "https://helion.pl",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Nowoczesne paradygmaty Data Mesh i Data Fabric dla analityki korporacyjnej.",
+    "businessValue": "Pogłębia zagadnienia modułu 6 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 53,
+    "title": "Inżynieria danych w praktyce. Kluczowe koncepcje i najlepsze technologie",
+    "authors": "Reis, J., Housley, M.",
+    "year": 2023,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6",
+    "modules": [
+      6
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Reis, J., Housley, M. (2023). Inżynieria danych w praktyce. Kluczowe koncepcje i najlepsze technologie. Helion. https://www.empik.com/inzynieria-danych-w-praktyce-kluczowe-koncepcje-i-najlepsze-technologie-joe-reis-matt-housley,p1379632762,ksiazka-p",
+    "identifiers": {
+      "isbn": "do weryfikacji"
+    },
+    "url": "https://www.empik.com/inzynieria-danych-w-praktyce-kluczowe-koncepcje-i-najlepsze-technologie-joe-reis-matt-housley,p1379632762,ksiazka-p",
+    "projectChapters": [
+      3,
+      4,
+      6
+    ],
+    "courseModules": [
+      "m6"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Fundament inżynierii danych, cykl życia danych (Data Engineering Lifecycle).",
+    "businessValue": "Pogłębia zagadnienia modułu 6 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 54,
+    "title": "The State of AI: How Organizations Are Rewiring to Capture Value",
+    "authors": "McKinsey & Company",
+    "year": 2024,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 7",
+    "modules": [
+      7
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "McKinsey & Company (2024). The State of AI: How Organizations Are Rewiring to Capture Value. https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/a%20generative%20ai%20reset%20rewiring%20to%20turn%20potential%20into%20value%20in%202024/a-generative-ai-reset-rewiring-to-turn-potential-into-value-in-2024.pdf?shouldIndex=false",
+    "identifiers": {},
+    "url": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/a%20generative%20ai%20reset%20rewiring%20to%20turn%20potential%20into%20value%20in%202024/a-generative-ai-reset-rewiring-to-turn-potential-into-value-in-2024.pdf?shouldIndex=false",
+    "projectChapters": [
+      1,
+      7,
+      8
+    ],
+    "courseModules": [
+      "m7"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Przebudowa architektury procesów i kompetencji w celu monetyzacji potencjału AI.",
+    "businessValue": "Wykorzystywana w module 7 oraz w dysertacji (Rozdziały 1, 7, 8)."
+  },
+  {
+    "id": 55,
+    "title": "EU AI Act, tekst przyjęty 13 marca 2024 r.",
+    "authors": "Parlament Europejski",
+    "year": 2024,
+    "apaCategory": 2,
+    "syllabusStream": "Moduł 8",
+    "modules": [
+      8
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Parlament Europejski (2024). EU AI Act, tekst przyjęty 13 marca 2024 r.. https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138_EN.html",
+    "identifiers": {},
+    "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138_EN.html",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m8"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Podstawa prawna formułowania wymogów zgodności w kontraktach z dostawcami AI.",
+    "businessValue": "Wykorzystywana w module 8 oraz w dysertacji (Rozdziały 2, 7)."
+  },
+  {
+    "id": 56,
+    "title": "Ustawa z 10 maja 2018 r. o ochronie danych osobowych",
+    "authors": "Sejm RP",
+    "year": 2018,
+    "apaCategory": 2,
+    "syllabusStream": "Moduł 8",
+    "modules": [
+      8
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Sejm RP (2018). Ustawa z 10 maja 2018 r. o ochronie danych osobowych. https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000",
+    "identifiers": {
+      "doi": "Dz.U. 2018 poz. 1000"
+    },
+    "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m8"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Przepisy krajowe o ochronie danych osobowych i nadzorze UODO.",
+    "businessValue": "Wykorzystywana w module 8 oraz w dysertacji (Rozdziały 2, 7)."
+  },
+  {
+    "id": 57,
+    "title": "Rozporządzenie (UE) 2016/679, RODO",
+    "authors": "Parlament Europejski i Rada UE",
+    "year": 2016,
+    "apaCategory": 2,
+    "syllabusStream": "Moduł 8",
+    "modules": [
+      8
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Parlament Europejski i Rada UE (2016). Rozporządzenie (UE) 2016/679, RODO. https://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX%3A32016R0679",
+    "identifiers": {
+      "doi": "CELEX: 32016R0679"
+    },
+    "url": "https://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX%3A32016R0679",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m8"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Art. 22 RODO (zautomatyzowane podejmowanie decyzji i profilowanie), umowy powierzenia danych (DPA).",
+    "businessValue": "Wykorzystywana w module 8 oraz w dysertacji (Rozdziały 2, 7)."
+  },
+  {
+    "id": 58,
+    "title": "Ustawa z 23 kwietnia 1964 r. – Kodeks cywilny, z późniejszymi zmianami",
+    "authors": "Sejm RP",
+    "year": 1964,
+    "apaCategory": 2,
+    "syllabusStream": "Moduł 8",
+    "modules": [
+      8
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Sejm RP (1964). Ustawa z 23 kwietnia 1964 r. – Kodeks cywilny, z późniejszymi zmianami. https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093",
+    "identifiers": {
+      "doi": "Dz.U. 1964 nr 16 poz. 93"
+    },
+    "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m8"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Umowa o dzieło, zlecenie, klauzule należytej staranności, odpowiedzialność kontraktowa i kary umowne.",
+    "businessValue": "Wykorzystywana w module 8 oraz w dysertacji (Rozdziały 2, 7)."
+  },
+  {
+    "id": 59,
+    "title": "Dyrektywa (UE) 2022/2555, NIS2",
+    "authors": "Parlament Europejski i Rada UE",
+    "year": 2022,
+    "apaCategory": 2,
+    "syllabusStream": "Moduł 8",
+    "modules": [
+      8
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Parlament Europejski i Rada UE (2022). Dyrektywa (UE) 2022/2555, NIS2. https://eur-lex.europa.eu/eli/dir/2022/2555",
+    "identifiers": {
+      "doi": "ELI: dir/2022/2555"
+    },
+    "url": "https://eur-lex.europa.eu/eli/dir/2022/2555",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m8"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Wymogi cyberbezpieczeństwa dla podmiotów kluczowych i łańcucha dostaw IT/AI.",
+    "businessValue": "Pogłębia zagadnienia modułu 8 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 60,
+    "title": "Rozporządzenie (UE) 2023/2854, Data Act",
+    "authors": "Parlament Europejski i Rada UE",
+    "year": 2023,
+    "apaCategory": 2,
+    "syllabusStream": "Moduł 8",
+    "modules": [
+      8
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Parlament Europejski i Rada UE (2023). Rozporządzenie (UE) 2023/2854, Data Act. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R2854&qid=1704709568425",
+    "identifiers": {
+      "doi": "CELEX: 32023R2854"
+    },
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R2854&qid=1704709568425",
+    "projectChapters": [
+      2,
+      7
+    ],
+    "courseModules": [
+      "m8"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access",
+    "desc": "Dostęp do danych przemysłowych, przenoszalność usług chmurowych i ochrona przed nieuczciwymi klauzulami.",
+    "businessValue": "Pogłębia zagadnienia modułu 8 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 61,
+    "title": "Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies Is Changing the World",
+    "authors": "Tapscott, D., Tapscott, A.",
+    "year": 2018,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 9",
+    "modules": [
+      9
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Tapscott, D., Tapscott, A. (2018). Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies Is Changing the World. Portfolio / Penguin Random House. https://www.penguinrandomhouse.com",
+    "identifiers": {
+      "isbn": "zależny od wydania"
+    },
+    "url": "https://www.penguinrandomhouse.com",
+    "projectChapters": [
+      3,
+      5,
+      8
+    ],
+    "courseModules": [
+      "m9"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Klasyczne opracowanie transformacji transakcji, zaufania i transferu wartości przez DLT.",
+    "businessValue": "Wykorzystywana w module 9 oraz w dysertacji (Rozdziały 3, 5, 8)."
+  },
+  {
+    "id": 62,
+    "title": "Secure the Post-Quantum Future",
+    "authors": "IBM",
+    "year": 2024,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 9",
+    "modules": [
+      9
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "IBM (2024). Secure the Post-Quantum Future. https://www.ibm.com/quantum/quantum-safe",
+    "identifiers": {},
+    "url": "https://www.ibm.com/quantum/quantum-safe",
+    "projectChapters": [
+      3,
+      5,
+      8
+    ],
+    "courseModules": [
+      "m9"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Ochrona infrastruktury finansowej i szyfrowania przed atakami z użyciem komputerów kwantowych.",
+    "businessValue": "Wykorzystywana w module 9 oraz w dysertacji (Rozdziały 3, 5, 8)."
+  },
+  {
+    "id": 63,
+    "title": "The Metaverse: And How It Will Revolutionize Everything",
+    "authors": "Ball, M.",
+    "year": 2022,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 9",
+    "modules": [
+      9
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Ball, M. (2022). The Metaverse: And How It Will Revolutionize Everything. Liveright / W.W. Norton. https://wwnorton.com",
+    "identifiers": {
+      "isbn": "do weryfikacji według wydania"
+    },
+    "url": "https://wwnorton.com",
+    "projectChapters": [
+      3,
+      5,
+      8
+    ],
+    "courseModules": [
+      "m9"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Gospodarka wirtualna, infrastruktura cyfrowa i nowe modele monetyzacji.",
+    "businessValue": "Pogłębia zagadnienia modułu 9 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 64,
+    "title": "Leveraging Artificial Intelligence and Machine Learning for Next-Generation Credit Risk Assessment Models",
+    "authors": "Sriram, H.K.",
+    "year": 2025,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 10",
+    "modules": [
+      10
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Sriram, H.K. (2025). Leveraging Artificial Intelligence and Machine Learning for Next-Generation Credit Risk Assessment Models. East Asian Journal of STEM. https://esa-research.com/index.php/eajse/article/view/4",
+    "identifiers": {},
+    "url": "https://esa-research.com/index.php/eajse/article/view/4",
+    "projectChapters": [
+      1,
+      5,
+      8
+    ],
+    "courseModules": [
+      "m10"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Nowoczesne modele ML w ocenie ryzyka kredytowego i predykcji defaultu.",
+    "businessValue": "Wykorzystywana w module 10 oraz w dysertacji (Rozdziały 1, 5, 8)."
+  },
+  {
+    "id": 65,
+    "title": "Revolutionizing Management Accounting: The Role of Artificial Intelligence in Predictive Analytics, Automated Reporting, and Decision-Making",
+    "authors": "Pavlović, M., Gligorić, C., Zdravković, F.",
+    "year": 2024,
+    "apaCategory": 4,
+    "syllabusStream": "Moduł 10",
+    "modules": [
+      10
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Pavlović, M., Gligorić, C., Zdravković, F. (2024). Revolutionizing Management Accounting: The Role of Artificial Intelligence in Predictive Analytics, Automated Reporting, and Decision-Making. Business & Management Compass. https://bi.ue-varna.bg/ojs/index.php/bmc/article/view/77/19",
+    "identifiers": {},
+    "url": "https://bi.ue-varna.bg/ojs/index.php/bmc/article/view/77/19",
+    "projectChapters": [
+      1,
+      5,
+      8
+    ],
+    "courseModules": [
+      "m10"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Rachunkowość zarządcza wspierana AI, automatyzacja sprawozdawczości i systemy wspomagania decyzji.",
+    "businessValue": "Pogłębia zagadnienia modułu 10 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 66,
+    "title": "Zwinnologia 2.0: Agile w zarządzaniu zmianą",
+    "authors": "Rubin, J., Grabowski, W., Naumiuk, M.",
+    "year": 2025,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 11",
+    "modules": [
+      11
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Rubin, J., Grabowski, W., Naumiuk, M. (2025). Zwinnologia 2.0: Agile w zarządzaniu zmianą. MT Biznes. https://mtbiznes.pl",
+    "identifiers": {
+      "isbn": "do weryfikacji"
+    },
+    "url": "https://mtbiznes.pl",
+    "projectChapters": [
+      7,
+      8
+    ],
+    "courseModules": [
+      "m11"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Zwinne zarządzanie projektami i transformacją w polskich przedsiębiorstwach.",
+    "businessValue": "Wykorzystywana w module 11 oraz w dysertacji (Rozdziały 7, 8)."
+  },
+  {
+    "id": 67,
+    "title": "AI First: The Playbook for a Future-Proof Business and Brand",
+    "authors": "Brotman, A., Sack, A.",
+    "year": 2025,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 11",
+    "modules": [
+      11
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Brotman, A., Sack, A. (2025). AI First: The Playbook for a Future-Proof Business and Brand. Harvard Business Review Press. https://store.hbr.org",
+    "identifiers": {
+      "isbn": "do weryfikacji"
+    },
+    "url": "https://store.hbr.org",
+    "projectChapters": [
+      7,
+      8
+    ],
+    "courseModules": [
+      "m11"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Praktyczny podręcznik budowy przewagi rynkowej opartej na sztucznej inteligencji.",
+    "businessValue": "Wykorzystywana w module 11 oraz w dysertacji (Rozdziały 7, 8)."
+  },
+  {
+    "id": 68,
+    "title": "Zarządzanie – komunikacja – nowoczesność",
+    "authors": "Czopek, A. (red.)",
+    "year": 2023,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 11",
+    "modules": [
+      11
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Czopek, A. (red.) (2023). Zarządzanie – komunikacja – nowoczesność. Wydawnictwo FNCE. https://fnce.pl",
+    "identifiers": {
+      "isbn": "do weryfikacji"
+    },
+    "url": "https://fnce.pl",
+    "projectChapters": [
+      7,
+      8
+    ],
+    "courseModules": [
+      "m11"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Komunikacja wewnętrzna, nowoczesne struktury organizacyjne i przywództwo cyfrowe.",
+    "businessValue": "Wykorzystywana w module 11 oraz w dysertacji (Rozdziały 7, 8)."
+  },
+  {
+    "id": 69,
+    "title": "Standardy i wytyczne merytoryczne projektu końcowego AI FINC (8 Rozdziałów)",
+    "authors": "Akademia Leona Koźmińskiego / KDF Dialog / ACCA",
+    "year": 2026,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 12",
+    "modules": [
+      12
+    ],
+    "readingType": "Obowiązkowa",
+    "isMandatory": true,
+    "isTop15": false,
+    "apaCitation": "Akademia Leona Koźmińskiego / KDF Dialog / ACCA (2026). Standardy i wytyczne merytoryczne projektu końcowego AI FINC (8 Rozdziałów).",
+    "identifiers": {},
+    "url": "#tab-navigator",
+    "projectChapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "courseModules": [
+      "m12"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Projekt dyplomowy integruje literaturę z Modułów 1–11 w strukturze 8 rozdziałów.",
+    "businessValue": "Wykorzystywana w module 12 oraz w dysertacji (Rozdziały 1, 2, 3, 4, 5, 6, 7, 8)."
+  },
+  {
+    "id": 70,
+    "title": "Baza spółek giełdowych WIG140 & GPW Benchmark",
+    "authors": "Giełda Papierów Wartościowych w Warszawie",
+    "year": 2026,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 12",
+    "modules": [
+      12
+    ],
+    "readingType": "Uzupełniająca",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Giełda Papierów Wartościowych w Warszawie (2026). Baza spółek giełdowych WIG140 & GPW Benchmark. https://www.gpw.pl",
+    "identifiers": {},
+    "url": "https://www.gpw.pl",
+    "projectChapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "courseModules": [
+      "m12"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail",
+      "Energetyka"
+    ],
+    "accessModel": "Wymaga licencji / Baza",
+    "desc": "Dane sektorowe, studia przypadków, wskaźniki i kody pobierania danych finansowych API.",
+    "businessValue": "Pogłębia zagadnienia modułu 12 i wspiera projekt dyplomowy."
+  },
+  {
+    "id": 71,
+    "title": "Limits of artificial intelligence in controlling and the ways forward",
+    "authors": "Goretzki, L., Messner, M.",
+    "year": 2024,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 2 & 10 (Controlling)",
+    "modules": [
+      2,
+      10
+    ],
+    "readingType": "Badawcza",
+    "isMandatory": false,
+    "isTop15": true,
+    "apaCitation": "Goretzki, L., & Messner, M. (2024). Limits of artificial intelligence in controlling and the ways forward. Journal of Management Control / Qualitative Research in Accounting & Management. https://www.emerald.com/insight/0967-5426.htm",
+    "identifiers": {
+      "issn": "0967-5426"
+    },
+    "url": "https://www.emerald.com/insight/0967-5426.htm",
+    "projectChapters": [
+      1,
+      3,
+      8
+    ],
+    "courseModules": [
+      "m2",
+      "m10"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja",
+      "Retail"
+    ],
+    "accessModel": "Wymaga licencji akademickiej",
+    "desc": "Kluczowa analiza ograniczeń algorytmów AI w procesach decyzyjnych controllera, heurystyk zarządczych i komplementarności człowieka z maszyną.",
+    "businessValue": "Podstawa dla Rozdziału 1.4 (Ograniczenia AI) oraz Rozdziału 8.3 (Wpływ na model operacyjny controllingu)."
+  },
+  {
+    "id": 72,
+    "title": "AI-driven financial control systems: machine learning models for fraud and compliance monitoring",
+    "authors": "Al-Sayed, S., Rahman, M., & Kumar, P.",
+    "year": 2026,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 3 & 10 (Controlling & Ryzyko)",
+    "modules": [
+      3,
+      10
+    ],
+    "readingType": "Badawcza",
+    "isMandatory": false,
+    "isTop15": true,
+    "apaCitation": "Al-Sayed, S., Rahman, M., & Kumar, P. (2026). AI-driven financial control systems: machine learning models for fraud and compliance monitoring. AI and Ethics / Springer Nature. https://doi.org/10.1007/s43681-026-01031-4",
+    "identifiers": {
+      "doi": "10.1007/s43681-026-01031-4"
+    },
+    "url": "https://link.springer.com/article/10.1007/s43681-026-01031-4",
+    "projectChapters": [
+      2,
+      4,
+      5
+    ],
+    "courseModules": [
+      "m3",
+      "m10"
+    ],
+    "sectors": [
+      "Finanse",
+      "Bankowość"
+    ],
+    "accessModel": "Open Access / Springer",
+    "desc": "Systemy kontroli finansowej wspierane przez ML: wykrywanie anomalii transakcyjnych, fraudów i ciągły monitoring compliance w czasie rzeczywistym.",
+    "businessValue": "Referencyjny model do Rozdziału 2 (Compliance) i Rozdziału 5 (Architektura modeli detekcji anomalii)."
+  },
+  {
+    "id": 73,
+    "title": "Intelligent financial system: how AI is transforming finance",
+    "authors": "Bank for International Settlements (BIS)",
+    "year": 2024,
+    "apaCategory": 4,
+    "syllabusStream": "Moduł 1 & 9 (Innowacje finansowe)",
+    "modules": [
+      1,
+      9
+    ],
+    "readingType": "Badawcza",
+    "isMandatory": false,
+    "isTop15": true,
+    "apaCitation": "Bank for International Settlements. (2024). Intelligent financial system: how AI is transforming finance (BIS Working Papers No. 1194). https://www.bis.org/publications/working-paper-1194-intelligent-financial-system-how-ai-transforming-finance",
+    "identifiers": {
+      "bis_wp": "1194"
+    },
+    "url": "https://www.bis.org/publications/working-paper-1194-intelligent-financial-system-how-ai-transforming-finance",
+    "projectChapters": [
+      1,
+      2,
+      3
+    ],
+    "courseModules": [
+      "m1",
+      "m9"
+    ],
+    "sectors": [
+      "Finanse",
+      "Bankowość"
+    ],
+    "accessModel": "Open Access (BIS)",
+    "desc": "Kompleksowa analiza BIS na temat nowej architektury inteligentnego systemu finansowego, stabilności makroostrożnościowej i rynków kapitałowych.",
+    "businessValue": "Fundament uzasadnienia biznesowego i makroekonomicznego dla Rozdziału 1.1 i 1.2."
+  },
+  {
+    "id": 74,
+    "title": "Future of Research in Management and AI",
+    "authors": "Tirole, J., McAfee, A., Brynjolfsson, E., et al.",
+    "year": 2024,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 7 & 11 (Strategia & Zarządzanie)",
+    "modules": [
+      7,
+      11
+    ],
+    "readingType": "Badawcza",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Brynjolfsson, E., et al. (2024). Future of Research in Management and AI. SSRN Electronic Journal. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5769382",
+    "identifiers": {
+      "ssrn": "5769382"
+    },
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5769382",
+    "projectChapters": [
+      7,
+      8
+    ],
+    "courseModules": [
+      "m7",
+      "m11"
+    ],
+    "sectors": [
+      "Finanse",
+      "TMT"
+    ],
+    "accessModel": "Open Access (SSRN)",
+    "desc": "Perspektywa teoretyczna i empiryczna nad transformacją modeli zarządczych, teorii agencji i produktywności kapitału w epoce generatywnej sztucznej inteligencji.",
+    "businessValue": "Podstawa konceptualna do Rozdziału 8.3 (Implikacje dla modelu operacyjnego) i 8.5 (Uczenie się organizacji)."
+  },
+  {
+    "id": 75,
+    "title": "Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoding Networks",
+    "authors": "Schreyer, M., Sattarov, T., Borth, D., Dengel, A., Pastrana, P.",
+    "year": 2020,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 6 & 10 (Dane & Audyt ERP)",
+    "modules": [
+      6,
+      10
+    ],
+    "readingType": "Badawcza",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Schreyer, M., Sattarov, T., Borth, D., Dengel, A., & Pastrana, P. (2020). Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoding Networks. Journal of Emerging Technologies in Accounting. https://doi.org/10.2308/jeta-19-08-07-28",
+    "identifiers": {
+      "doi": "10.2308/jeta-19-08-07-28",
+      "arxiv": "1908.00734"
+    },
+    "url": "https://arxiv.org/abs/1908.00734",
+    "projectChapters": [
+      3,
+      4,
+      5
+    ],
+    "courseModules": [
+      "m6",
+      "m10"
+    ],
+    "sectors": [
+      "Produkcja",
+      "Retail",
+      "Finanse"
+    ],
+    "accessModel": "Open Access (arXiv)",
+    "desc": "Uczenie głębokie (Autoenkodery) w detekcji anomalii księgowych w systemach ERP (SAP General Ledger) na milionach zapisów.",
+    "businessValue": "Wzorzec architektury i inżynierii cech dla Rozdziału 4 i 5 w projektach audytu i controllingu."
+  },
+  {
+    "id": 76,
+    "title": "Detecting Accounting Fraud in Publicly Traded U.S. Firms Using Machine Learning",
+    "authors": "Bao, D., Ke, B., Li, B., Su, Y. J., Zhang, Y.",
+    "year": 2020,
+    "apaCategory": 1,
+    "syllabusStream": "Moduł 3 & 10 (Ryzyko & Fraud)",
+    "modules": [
+      3,
+      10
+    ],
+    "readingType": "Badawcza",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Bao, D., Ke, B., Li, B., Su, Y. J., & Zhang, Y. (2020). Detecting Accounting Fraud in Publicly Traded U.S. Firms Using Machine Learning. Journal of Accounting Research, 58(1), 199–235. https://doi.org/10.1111/1475-679X.12292",
+    "identifiers": {
+      "doi": "10.1111/1475-679X.12292"
+    },
+    "url": "https://doi.org/10.1111/1475-679X.12292",
+    "projectChapters": [
+      1,
+      4,
+      5
+    ],
+    "courseModules": [
+      "m3",
+      "m10"
+    ],
+    "sectors": [
+      "Finanse",
+      "Produkcja"
+    ],
+    "accessModel": "Wymaga licencji akademickiej",
+    "desc": "Wykorzystanie algorytmów uczenia maszynowego w wykrywaniu manipulacji w sprawozdaniach finansowych spółek publicznych.",
+    "businessValue": "Dobór wskaźników bilansowych i cech finansowych w Rozdziale 4 i 5 dla spółek GPW."
+  },
+  {
+    "id": 77,
+    "title": "Raporty Digital Finance Excellence (DFE): AI w polskich przedsiębiorstwach",
+    "authors": "Klub Dyrektorów Finansowych „Dialog”",
+    "year": 2024,
+    "apaCategory": 4,
+    "syllabusStream": "Moduł 1 & 7 (Praktyka CFO w Polsce)",
+    "modules": [
+      1,
+      7
+    ],
+    "readingType": "Badawcza",
+    "isMandatory": false,
+    "isTop15": false,
+    "apaCitation": "Klub Dyrektorów Finansowych „Dialog”. (2024). Digital Finance Excellence: Wdrażanie i efektywność rozwiązań sztucznej inteligencji w finansach i controllingu. Business Dialog.",
+    "identifiers": {
+      "isbn": "978-83-948123-0-0"
+    },
+    "url": "https://businessdialog.pl",
+    "projectChapters": [
+      1,
+      6,
+      8
+    ],
+    "courseModules": [
+      "m1",
+      "m7"
+    ],
+    "sectors": [
+      "Produkcja",
+      "Retail",
+      "Finanse",
+      "Energetyka"
+    ],
+    "accessModel": "Open Access (KDF Dialog)",
+    "desc": "Raporty empiryczne KDF Dialog – realia wdrożeń AI, bariery kulturowe, budżety i studia przypadków w polskich firmach.",
+    "businessValue": "Benchmarking dojrzałości i kalkulacje ROI do Rozdziału 8.4."
+  }
+]
